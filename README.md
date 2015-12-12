@@ -1,3 +1,4 @@
+Shortcut
 ------
 For macOS, install nano using brew:
 
