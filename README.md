@@ -1,11 +1,14 @@
 ------
 For macOS, install nano using brew:
-brew install homebrew/dupes/nano
+
+    brew install homebrew/dupes/nano
 
 Clone repo, then cd to directory and run commands:
-make install
-nano ~/.nanorc
-include ~/.nano/syntax/ALL.nanorc
+
+    make install
+    nano ~/.nanorc
+    include ~/.nano/syntax/ALL.nanorc
+
 ------
 
 
