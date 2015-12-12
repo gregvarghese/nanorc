@@ -1,17 +1,11 @@
-Unmaintained
-============
+------
+For macOS, install nano using brew:
+brew install homebrew/dupes/nano
 
-I am no longer using nano as my editor and hence have little motivation
-to continue working on this project. It remains available on GitHub for
-archival purposes only.
-
-Everything in the repository is in the Public Domain. Feel free to fork
-it and/or use the files for any purpose.
-
-P.S. I highly recommend [dex](https://github.com/tihirvon/dex) as a
-simple but much more capable editor.
-
-
+Clone repo, then cd to directory and run commands:
+make install
+nano ~/.nanorc
+include ~/.nano/syntax/ALL.nanorc
 ------
 
 
